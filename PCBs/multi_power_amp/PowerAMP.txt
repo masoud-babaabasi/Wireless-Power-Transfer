@@ -1,0 +1,51 @@
+Board Information Report
+Filename     : D:\Masoud\arshad\Project\WPT_coilpad_2\multi_power_amp\PowerAMP.PcbDoc
+Date         : 2022-08-19
+Time         : 11:43:21 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 211.5mmx142.575mm
+    Components on board, 274
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 658
+    Connections routed, 658
+    Connections remaining, 0
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 738, 0
+    0.635mm, 2, 0
+    0.7mm, 2, 587
+    0.7112mm, 0, 92
+    0.762mm, 6, 0
+    0.889mm, 10, 0
+    0.9mm, 17, 0
+    1mm, 6, 0
+    1mm, 65, 0
+    1.016mm, 2, 0
+    1.2mm, 6, 0
+    1.27mm, 12, 0
+    1.5mm, 2, 0
+    2.3mm, 2, 0
+    3.15mm, 4, 0
+count : 15
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Net Via Size, Count
+    1.2mm, 177
+count : 1

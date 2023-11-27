@@ -1,0 +1,48 @@
+Board Information Report
+Filename     : D:\Masoud\arshad\Project\power_amp_revision\PowerAMP_revision.PcbDoc
+Date         : 2022-08-22
+Time         : 3:07:33 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 211.5mmx142.575mm
+    Components on board, 322
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 775
+    Connections routed, 775
+    Connections remaining, 0
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 928, 0
+    0.5mm, 0, 264
+    0.7mm, 4, 481
+    0.8mm, 6, 0
+    0.9mm, 29, 0
+    1mm, 6, 0
+    1mm, 59, 0
+    1.3mm, 20, 0
+    1.5mm, 2, 0
+    2.3mm, 2, 0
+    3mm, 1, 0
+    3.15mm, 4, 0
+count : 12
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Net Via Size, Count
+    1.2mm, 226
+count : 1
